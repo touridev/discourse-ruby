@@ -238,7 +238,7 @@ GEM
       net-imap
       net-pop
       net-smtp
-    matrix (0.4.2)
+    matrix (0.4.3)
     maxminddb (0.1.22)
     memory_profiler (1.1.0)
     message_bus (4.3.8)
